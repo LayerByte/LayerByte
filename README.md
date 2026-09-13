@@ -48,89 +48,11 @@ $ whoami
 
 ---
 
-## 🔐 Cybersecurity
-
-```text
-Network Security     █████████░░
-Web Security         ████████░░░
-Linux                █████████░░
-Python               █████████░░
-OSINT                ████████░░░
-Ethical Hacking      ████████░░░
-```
-
-### Areas I'm exploring
-
-- 🔎 OSINT
-- 🌐 Network Security
-- 🕸️ Web Application Security
-- 🐧 Linux Security
-- 🔐 Cryptography
-- 🧪 Vulnerability Research
-- 🛠️ Security Tool Development
-- 🚩 CTF Challenges
-
----
-
-## 🚀 Projects
-
-I enjoy building projects around:
-
-```text
-┌──────────────────────────────────────┐
-│                                      │
-│  Security Tools                      │
-│  Network Utilities                   │
-│  Automation Scripts                  │
-│  CLI Applications                    │
-│  Web Applications                    │
-│  Developer Tools                     │
-│  System Utilities                    │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-> Check out my repositories to see what I'm currently working on.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LayerByte&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayerByte&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=LayerByte&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LayerByte&theme=github-compact&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LayerByte&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -155,8 +77,6 @@ I enjoy building projects around:
 <sub>Building one project at a time.</sub>
 
 <br><br>
-
-![Snake animation](https://raw.githubusercontent.com/LayerByte/LayerByte/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
