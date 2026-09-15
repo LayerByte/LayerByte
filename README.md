@@ -174,13 +174,21 @@ I use platforms such as **TryHackMe** to practice security concepts in controlle
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LayerByte&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="LayerByte GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LayerByte&theme=github_dark" height="170" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayerByte&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&langs_count=8" alt="Most Used Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LayerByte&theme=github_dark" height="170" alt="Most Used Languages" />
 
 </div>
 
-> Language statistics are calculated from my public GitHub repositories and don't necessarily represent my overall experience.
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LayerByte&theme=github_dark" width="90%" alt="GitHub Profile Summary" />
+
+</div>
+
+> Language statistics are based on my public GitHub repositories and don't necessarily represent my overall experience.
 
 ---
 
