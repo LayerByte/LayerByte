@@ -1,291 +1,241 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:1F2937&height=220&section=header&text=LAYERBYTE&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Cybersecurity%20Student%20%7C%20Ethical%20Hacking&descAlignY=60&descSize=18&animation=fadeIn" />
+# 👋 Hey, I'm LayerByte
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Developer+%26+Cybersecurity+Student;Ethical+Hacking+Enthusiast;Building+Security+%26+Developer+Tools;Linux+%7C+Windows+%7C+Networking;Learning.+Building.+Breaking.+Improving." alt="Typing SVG" />
+### Developer & Cybersecurity Student
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Developer+%26+Cybersecurity+Student;Ethical+Hacking+Enthusiast;Building+Open+Source+Tools;Exploring+Systems+%26+Security" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/LayerByte">
-  <img src="https://img.shields.io/github/followers/LayerByte?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=111111" />
+<img src="https://img.shields.io/github/followers/LayerByte?style=flat-square&logo=github&label=Followers&color=161B22" alt="Followers">
 </a>
 <a href="https://github.com/LayerByte?tab=repositories">
-  <img src="https://img.shields.io/github/stars/LayerByte?style=for-the-badge&logo=github&logoColor=white&affiliations=OWNER&label=STARS&color=111111" />
+<img src="https://img.shields.io/github/stars/LayerByte?style=flat-square&logo=github&label=Stars&color=161B22" alt="Stars">
 </a>
-<img src="https://komarev.com/ghpvc/?username=LayerByte&label=PROFILE+VIEWS&style=for-the-badge&color=111111" />
+<img src="https://komarev.com/ghpvc/?username=LayerByte&style=flat-square&label=Profile+Views&color=161B22" alt="Profile Views">
 
 </div>
 
 ---
 
-## `> whoami`
+## 👨‍💻 About Me
 
-```bash
-┌──(layerbyte㉿github)-[~]
-└─$ whoami
+```javascript
+const layerByte = {
+    role: "Developer & Cybersecurity Student",
 
-LayerByte
+    interests: [
+        "Cybersecurity",
+        "Ethical Hacking",
+        "Software Development",
+        "Networking",
+        "Linux"
+    ],
 
-┌──(layerbyte㉿github)-[~]
-└─$ cat profile.txt
+    currentlyLearning: [
+        "Web Security",
+        "Network Security",
+        "System Security",
+        "Advanced Programming"
+    ],
 
-Role        : Developer & Cybersecurity Student
-Focus       : Ethical Hacking / Security / Development
-OS          : Linux & Windows
-Interests   : Networking, Security, Automation, Open Source
-Status      : Learning. Building. Breaking. Improving.
+    environment: {
+        operatingSystems: ["Windows", "Linux"],
+        editor: "Visual Studio Code",
+        terminal: ["PowerShell", "Bash"],
+        versionControl: "Git"
+    },
+
+    philosophy: "Learn. Build. Break. Secure. Repeat."
+};
 ```
 
-I'm a developer and cybersecurity student focused on building practical software, learning security concepts and improving my knowledge through real-world projects.
+I enjoy understanding how software and systems work — and how they can be made **faster, safer and more reliable**.
 
-I enjoy experimenting with **cybersecurity**, **networking**, **automation**, **Linux**, and different programming languages.
-
-> **My goal:** Build useful software, understand how systems work, learn how they break, and learn how to secure them.
+Most of my projects are focused on **developer tools, cybersecurity, automation, networking and experiments with different technologies**.
 
 ---
 
-## `> tech_stack`
-
-<div align="center">
+## 🛠️ Tech Stack
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,php,lua,go,swift,html,css&perline=11" alt="Programming Languages" />
+<p>
+<img src="https://skillicons.dev/icons?i=python" width="42" title="Python"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="42" title="C++"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=cs" width="42" title="C#"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="42" title="Java"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="42" title="JavaScript"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=php" width="42" title="PHP"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=lua" width="42" title="Lua"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=go" width="42" title="Go"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=swift" width="42" title="Swift"/>
+</p>
 
-<br>
+### Web
 
-### Development
+<p>
+<img src="https://skillicons.dev/icons?i=html" width="42" title="HTML"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="42" title="CSS"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="42" title="JavaScript"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=php" width="42" title="PHP"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker&perline=5" alt="Development Tools" />
+### Databases
 
-<br>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" width="42" title="MySQL"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite" width="42" title="SQLite"/>
+</p>
 
-### Systems & Tools
+### Development & DevOps
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,windows&perline=5" alt="Systems" />
+<p>
+<img src="https://skillicons.dev/icons?i=git" width="42" title="Git"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="42" title="GitHub"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="42" title="Docker"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="42" title="Visual Studio Code"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=visualstudio" width="42" title="Visual Studio"/>
+</p>
+
+### Systems & Security
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux" width="42" title="Linux"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=ubuntu" width="42" title="Ubuntu"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=kali" width="42" title="Kali Linux"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" width="42" title="Bash"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=powershell" width="42" title="PowerShell"/>
+</p>
+
+---
+
+## 🔐 Cybersecurity
+
+My main security interests include:
+
+```text
+├── Web Security
+├── Network Security
+├── Ethical Hacking
+├── Linux Security
+├── OSINT
+├── Vulnerability Research
+├── Security Automation
+└── CTF / Security Labs
+```
+
+I use platforms such as **TryHackMe** to practice security concepts in controlled environments.
+
+<p>
+<a href="https://tryhackme.com/p/LayerByte">
+<img src="https://img.shields.io/badge/TryHackMe-LayerByte-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+</a>
+</p>
+
+---
+
+## 🚀 What I Build
+
+| Area                 | Examples                                           |
+| -------------------- | -------------------------------------------------- |
+| 🔐 **Cybersecurity** | Security scanners, analysis tools, OSINT utilities |
+| 🌐 **Networking**    | Network scanners, monitoring & diagnostic tools    |
+| ⚙️ **Automation**    | CLI tools, scripts & workflow automation           |
+| 💻 **Development**   | Desktop, web & backend applications                |
+| 🐧 **Linux**         | Security, system & administration utilities        |
+| 🧪 **Experiments**   | Learning projects & technology experiments         |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LayerByte&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="LayerByte GitHub Stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayerByte&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&langs_count=8" alt="Most Used Languages"/>
+
+</div>
+
+> Language statistics are calculated from my public GitHub repositories and don't necessarily represent my overall experience.
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LayerByte&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=8B949E&area=true&area_color=161B22&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## `> areas_of_interest`
-
-<div align="center">
-
-|      Cybersecurity     | Development |   Systems  |
-| :--------------------: | :---------: | :--------: |
-|     Ethical Hacking    |    Python   |    Linux   |
-|    Network Security    |   C++ / C#  |   Windows  |
-|      Web Security      |  JavaScript |   Docker   |
-|          OSINT         |     PHP     |     Git    |
-|     Security Tools     |      Go     |    Bash    |
-| Vulnerability Research |     Lua     | PowerShell |
-
-</div>
-
----
-
-## `> github_stats`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LayerByte&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayerByte&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=10" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=LayerByte&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
-
-</div>
-
----
-
-## `> language_statistics`
-
-<div align="center">
-
-<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LayerByte&theme=github_dark" />
-<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LayerByte&theme=github_dark" />
-
-</div>
-
----
-
-## `> profile_summary`
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LayerByte&theme=github_dark" />
-
-</div>
-
----
-
-## `> github_trophies`
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=LayerByte&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## `> contribution_activity`
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LayerByte&bg_color=0D1117&color=FFFFFF&line=8B949E&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-## `> contribution_streak`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LayerByte&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-
----
-
-## `> current_focus`
+## 🎯 Currently
 
 ```yaml
+focus:
+  - Cybersecurity
+  - Software Development
+  - Networking
+
 learning:
   - Ethical Hacking
-  - Network Security
   - Web Security
+  - Network Security
   - Linux
-  - Automation
 
 building:
-  - Cybersecurity Tools
+  - Security Tools
   - Developer Utilities
-  - Automation Scripts
   - Open Source Projects
-
-improving:
-  - Python
-  - C++
-  - Go
-  - JavaScript
-  - Bash
 ```
 
 ---
 
-## `> cybersecurity`
+## 🌐 Connect
 
-<div align="center">
-
-<a href="https://tryhackme.com/">
-  <img src="https://img.shields.io/badge/TryHackMe-LayerByte-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
-
-<a href="https://www.kali.org/">
-  <img src="https://img.shields.io/badge/Kali_Linux-Security-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</a>
-
-<a href="https://owasp.org/">
-  <img src="https://img.shields.io/badge/OWASP-Web_Security-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## `> important_links`
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/LayerByte">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-LayerByte-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/LayerByte?tab=repositories">
-<img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://tryhackme.com/p/LayerByte">
+<img src="https://img.shields.io/badge/TryHackMe-LayerByte-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 
-<a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TRYHACKME-PROFILE-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-## `> developer_environment`
-
-```text
-OS          Windows 11 / Linux
-Editor      Visual Studio Code
-Terminal    PowerShell / Bash
-Versioning  Git + GitHub
-Containers  Docker
-Focus       Development + Cybersecurity
-```
-
----
-
-## `> contribution_snake`
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LayerByte/LayerByte/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+### `Learn. Build. Break. Secure. Repeat.`
 
-</div>
-
-> The contribution snake requires a GitHub Action to generate the SVG.
-
----
-
-## `> random_dev_quote`
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
----
-
-## `> connect`
-
-<div align="center">
-
-<a href="https://github.com/LayerByte">
-<img src="https://img.shields.io/badge/GitHub-LayerByte-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TryHackMe-LayerByte-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│       CODE. BREAK. LEARN. REPEAT.            │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-**Building one project at a time.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:0D1117,100:000000&height=120&section=footer" width="100%" />
+<sub>Always learning. Always building.</sub>
 
 </div>
