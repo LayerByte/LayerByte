@@ -1,197 +1,84 @@
+# 💫 About Me
+
+👨‍💻 Developer & Cybersecurity Student focused on building useful and open-source software  
+🔭 Currently working on **open-source & cybersecurity projects**  
+🌱 Learning more about **Cybersecurity, C++, Python & Linux**  
+🛡️ Interested in **Ethical Hacking, Web Security & Networking**  
+⚙️ Building **developer tools, automation & security utilities**  
+🤝 Open to collaborating on interesting **development & security projects**  
+💬 Ask me about **Development, Linux & Cybersecurity**  
+⚡ Fun fact: **I probably spend more time in the terminal than outside**
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & Deployment
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+### 🛠️ Tools
+
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📊 GitHub Stats
+
 <div align="center">
 
-<img width="100%" src="./assets/header.png" alt="LayerByte Header"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=layerbyte&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=layerbyte&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
 <br>
 
-# ❯ [ Hi, I'm LayerByte_ ]
-
-### Developer & Cybersecurity Student
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=900&color=C9D1D9&center=true&vCenter=true&width=600&lines=%3E+Building+open+source+tools;%3E+Exploring+systems+%26+security;%3E+Learning+ethical+hacking;%3E+Turning+ideas+into+real+projects" />
-
-<br>
-
-<a href="https://github.com/LayerByte">
-<img src="https://img.shields.io/github/followers/LayerByte?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=0D1117"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/LayerByte?tab=repositories">
-<img src="https://img.shields.io/github/stars/LayerByte?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=0D1117"/>
-</a>
-
-&nbsp;
-
-<img src="https://komarev.com/ghpvc/?username=LayerByte&style=for-the-badge&label=VIEWS&color=0D1117"/>
+<img width="60%" src="https://streak-stats.demolab.com/?user=layerbyte&theme=transparent&hide_border=true" />
 
 </div>
 
-<br>
-
 ---
-
-## ❯ [ About Me ]
-
-<img align="right" width="300" src="./assets/about.png"/>
-
-I'm **LayerByte** — a Developer & Cybersecurity Student based in Europe.
-
-I'm passionate about **technology, cybersecurity and building useful software**.
-
-I enjoy learning how systems work, exploring new technologies and creating practical tools.
-
-Currently, I'm focused on improving my skills in:
-
-`Cybersecurity` `Development` `Linux`
-
-`Networking` `Open Source` `Automation`
-
-<br>
-
-My goal is simple:
-
-> Build useful software, understand systems and keep improving.
-
-<br clear="right"/>
-
----
-
-## ❯ [ Connect ]
 
 <div align="center">
 
-<a href="https://github.com/LayerByte">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://tryhackme.com/p/X3roxDev">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="50"/>
-</a>
-
-</div>
-
-<br>
-
----
-
-## ❯ [ Tech Stack ]
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,php,lua,go,swift&theme=dark"/>
+<img src="https://komarev.com/ghpvc/?username=layerbyte&style=flat-square&label=PROFILE+VIEWS&color=0d1117" />
 
 <br><br>
 
-### Web & Databases
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlite&theme=dark"/>
-
-<br><br>
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio&theme=dark"/>
-
-<br><br>
-
-### Systems & Security
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,bash,powershell&theme=dark"/>
-
-</div>
-
-<br>
-
----
-
-## ❯ [ Featured Project ]
-
-<table>
-<tr>
-<td width="40%">
-
-<img width="100%" src="./assets/project-vetora.png"/>
-
-</td>
-
-<td width="60%">
-
-### Vetora Management System
-
-Modern veterinary management system designed for managing clients, animals, appointments and clinic operations.
-
-**Stack**
-
-`Web` `Database` `Management System`
-
-<br>
-
-<a href="https://vetora-five.vercel.app/">
-<img src="https://img.shields.io/badge/◈_LIVE_DEMO-0D1117?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/LayerByte">
-<img src="https://img.shields.io/badge/VIEW_ON_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-## ❯ [ GitHub Stats ]
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=LayerByte&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=LayerByte&theme=github_dark&hide_border=true&layout=compact&langs_count=8"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=LayerByte&theme=github-dark-blue&hide_border=true&background=0D1117"/>
-
-</div>
-
-<br>
-
----
-
-## ❯ [ Profile Summary ]
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LayerByte&theme=github_dark"/>
-
-<br>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-```text
-SAME IDEAS, DIFFERENT RESULTS
-
-D I S C I P L I N E .
-```
-
-<sub>LAYERBYTE © 2026</sub>
-
-<br>
-
-<sub>BUILD // EXPLORE // LEARN // REPEAT</sub>
+<sub>BUILD • LEARN • SECURE • IMPROVE</sub>
 
 </div>
