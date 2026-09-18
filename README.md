@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 My Recent Projects
 
-1. [VETORA CLINIC SYSTEM](https://vetora-five.vercel.app/)
+1. [Vetora Clinic System](https://vetora-five.vercel.app/)
 
 ---
 
