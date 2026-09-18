@@ -68,13 +68,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=layerbyte&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
-
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=layerbyte&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
 <br>
-
-<img width="60%" src="https://streak-stats.demolab.com/?user=layerbyte&theme=transparent&hide_border=true" />
 
 </div>
 
