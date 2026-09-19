@@ -15,6 +15,8 @@
 
 1. [Vetora Clinic System](https://vetora-five.vercel.app/)
 2. [Byteforce Developer Agency](https://byteforge-theta.vercel.app)
+3. [TLS certificate expiration checker](https://github.com/LayerByte/certwatch)
+4. [Matrix room moderation bot](https://github.com/LayerByte/matrixguard)
 
 ---
 
