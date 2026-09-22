@@ -9,14 +9,24 @@
 💬 Ask me about **Development, Linux & Cybersecurity**  
 ⚡ Fun fact: **I probably spend more time in the terminal than outside**
 
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=LayerByte&style=flat-square&label=PROFILE+VIEWS&color=555555" />
+<img src="https://img.shields.io/github/followers/LayerByte?style=flat-square&logo=github&label=FOLLOWERS&labelColor=555555&color=58a6ff" />
+<img src="https://img.shields.io/github/stars/LayerByte?affiliations=OWNER&style=flat-square&logo=github&label=STARS&labelColor=555555&color=58a6ff" />
+
+</div>
+
 ---
 
 ## 🧑‍💻 My Recent Projects
 
 1. [Vetora Clinic System](https://vetora-five.vercel.app/)
 2. [Byteforce Developer Agency](https://byteforge-theta.vercel.app)
-3. [TLS certificate expiration checker](https://github.com/LayerByte/certwatch)
-4. [Matrix room moderation bot](https://github.com/LayerByte/matrixguard)
+3. [TLS Certificate Expiration Checker](https://github.com/LayerByte/certwatch)
+4. [Matrix Room Moderation Bot](https://github.com/LayerByte/matrixguard)
 
 ---
 
@@ -72,17 +82,11 @@
 
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=layerbyte&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
-<br>
-
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=layerbyte&style=flat-square&label=PROFILE+VIEWS&color=0d1117" />
-
-<br><br>
 
 <sub>BUILD • LEARN • SECURE • IMPROVE</sub>
 
