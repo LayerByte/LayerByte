@@ -3,7 +3,12 @@ name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -11,6 +16,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Generate Snake
@@ -18,12 +24,13 @@ jobs:
         with:
           github_user_name: LayerByte
           outputs: |
-            dist/github-snake.svg?color_snake=%2358A6FF&color_dots=%23161B22,%230D419D,%231F6FEB,%2358A6FF,%23FFFFFF
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
+      - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
-          branch: gh-pages
+          branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
