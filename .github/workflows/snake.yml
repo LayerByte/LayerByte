@@ -1,11 +1,9 @@
-name: Generate Contribution Snake
+name: Generate LayerByte Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -19,18 +17,19 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Snake
+      - name: Generate LayerByte Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: LayerByte
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake
+          outputs: |
+            dist/layerbyte-snake.svg?color_snake=%2358A6FF&color_dots=%23161B22,%230D419D,%231F6FEB,%2358A6FF,%23FFFFFF
+            dist/layerbyte-snake-dark.svg?palette=github-dark&color_snake=%2358A6FF&color_dots=%23161B22,%230D419D,%231F6FEB,%2358A6FF,%23FFFFFF
+
+      - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
-          branch: output
+          branch: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
