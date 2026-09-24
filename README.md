@@ -76,32 +76,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=layerbyte&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-
-</div>
-
----
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/LayerByte/LayerByte/gh-pages/github-snake.svg"
-  alt="LayerByte Contribution Snake"
-  width="100%"
-/>
-
-</div>
-
----
-
 <div align="center">
 
 <sub>BUILD • LEARN • SECURE • IMPROVE</sub>
