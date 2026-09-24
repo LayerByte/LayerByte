@@ -88,25 +88,15 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LayerByte/LayerByte/gh-pages/layerbyte-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LayerByte/LayerByte/gh-pages/layerbyte-snake.svg"
-  />
-  <img
-    alt="LayerByte contribution snake"
-    src="https://raw.githubusercontent.com/LayerByte/LayerByte/gh-pages/layerbyte-snake-dark.svg"
-    width="100%"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/LayerByte/LayerByte/gh-pages/github-snake.svg"
+  alt="LayerByte Contribution Snake"
+  width="100%"
+/>
 
 </div>
 
