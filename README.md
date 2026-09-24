@@ -13,9 +13,9 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=LayerByte&style=flat-square&label=PROFILE+VIEWS&color=555555" />
-<img src="https://img.shields.io/github/followers/LayerByte?style=flat-square&logo=github&label=FOLLOWERS&labelColor=555555&color=58a6ff" />
-<img src="https://img.shields.io/github/stars/LayerByte?affiliations=OWNER&style=flat-square&logo=github&label=STARS&labelColor=555555&color=58a6ff" />
+![Profile Views](https://komarev.com/ghpvc/?username=LayerByte&style=for-the-badge&label=VIEWS&color=181717)
+![GitHub Followers](https://img.shields.io/github/followers/LayerByte?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717)
+![GitHub Stars](https://img.shields.io/github/stars/LayerByte?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=181717)
 
 </div>
 
