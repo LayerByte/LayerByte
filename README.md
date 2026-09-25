@@ -21,15 +21,6 @@
 
 ---
 
-## 🧑‍💻 My Recent Projects
-
-1. [Vetora Clinic System](https://vetora-five.vercel.app/)
-2. [Byteforce Developer Agency](https://byteforge-theta.vercel.app)
-3. [TLS Certificate Expiration Checker](https://github.com/LayerByte/certwatch)
-4. [Matrix Room Moderation Bot](https://github.com/LayerByte/matrixguard)
-
----
-
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
