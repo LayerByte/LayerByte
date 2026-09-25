@@ -7,7 +7,6 @@
 ⚙️ Creating **developer & security tools**
 🤝 Open to **collaboration**
 
-
 <br>
 
 <div align="center">
