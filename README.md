@@ -55,10 +55,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/layerbyte/layerbyte/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
----
-
-<div align="center">
-
-<sub>BUILD • LEARN • SECURE • IMPROVE</sub>
-
-</div>
