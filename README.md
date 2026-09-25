@@ -1,13 +1,11 @@
 # 💫 About Me
 
-👨‍💻 Developer & Cybersecurity Student focused on building useful and open-source software  
-🔭 Currently working on **open-source & cybersecurity projects**  
-🌱 Learning more about **Cybersecurity, C++, Python & Linux**  
-🛡️ Interested in **Ethical Hacking, Web Security & Networking**  
-⚙️ Building **developer tools, automation & security utilities**  
-🤝 Open to collaborating on interesting **development & security projects**  
-💬 Ask me about **Development, Linux & Cybersecurity**  
-⚡ Fun fact: **I probably spend more time in the terminal than outside**
+👨‍💻 Developer & Cybersecurity Student
+🔭 Building **open-source & security projects**
+🌱 Learning **Cybersecurity, C++, Python & Linux**
+🛡️ Into **Ethical Hacking & Web Security**
+⚙️ Creating **developer & security tools**
+🤝 Open to **collaboration**
 
 <br>
 
